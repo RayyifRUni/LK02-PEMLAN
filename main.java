@@ -33,7 +33,7 @@ public class main {
        
                 int jumlah = scanner.nextInt();
  
-                t1.penumpangNaik(jumlah);
+                t1.naik(jumlah);
                 break;
             case 2:
                 System.out.println("Berapa jumlah penumpang turun?");

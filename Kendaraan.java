@@ -37,7 +37,7 @@ class kendaraan{
 }
 
 
-    public void penumpangNaik(int jumlah){
+    public void naik(int jumlah){
         System.out.println("ada penumpang mau naik: "+jumlah);
    
         int current = this.jumlahPenumpang;
